@@ -20,6 +20,10 @@ body {
 	margin-top: 0;
 }
 
+ul {
+	padding-left: 0;
+}
+
 .profile_picture {
 	width: 70%;
 	margin-top: 2em;
